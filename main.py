@@ -13,7 +13,7 @@ from src.assistant import DocumentAssistant
 def print_header():
     """Print a nice header"""
     print("\n" + "=" * 60)
-    print("DocDacity Intelligent Document Assistant", color='blue')
+    print("Intelligent Document Assistant", color='blue')
     print("=" * 60 + "\n")
 
 

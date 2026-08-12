@@ -55,7 +55,7 @@ class SimulatedRetriever:
                 SERVICE AGREEMENT
 
                 This Service Agreement is entered into on January 1, 2024, between:
-                - Provider: DocDacity Solutions Inc.
+                - Provider: Document Solutions Inc.
                 - Client: Healthcare Partners LLC
 
                 Services:

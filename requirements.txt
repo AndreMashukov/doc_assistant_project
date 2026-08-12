@@ -1,4 +1,4 @@
-# DocDacity Document Assistant
+# Document Assistant
 
 langchain>=0.2.0
 langgraph>=0.6.7

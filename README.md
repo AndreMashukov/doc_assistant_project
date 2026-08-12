@@ -1,4 +1,4 @@
-# DocDacity Document Assistant
+# Document Assistant
 
 LangGraph assistant for document Q&A, summarization, and calculations.
 
